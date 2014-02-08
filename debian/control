@@ -15,8 +15,9 @@ Recommends: ${xpi:Recommends}
 Breaks: ${xpi:Breaks}
 Provides: ${xpi:Provides}
 Enhances: ${xpi:Enhances}
-Description: Safari-like icons in the URL, search and find fields to clear their contents
- This add-on places an X-icon at the end of the url, search and quickfind field
- to clear these fields. This is mostly usefull for X-windows users, which don't 
- want their clipboards to be erased when marking the text in the field to delete
- it.
+Description: adds icons to Iceweasel's  URL, search and find input fields to clear their contents.
+ This add-on places an X-icon at the end of the URL, search and quickfind field
+ to clear these fields.
+ .
+ This is useful for X-windows users who don't want their clipboards to be erased
+ when marking the text in the field to delete it.
