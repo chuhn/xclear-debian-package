@@ -1,0 +1,15 @@
+Source: xul-ext-xclear
+Section: unknown
+Priority: extra
+Maintainer: Christopher Huhn, GSI <C.Huhn@gsi.de>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/xul-ext-xclear.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/xul-ext-xclear.git;a=summary
+
+Package: xul-ext-xclear
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

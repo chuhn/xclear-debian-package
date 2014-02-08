@@ -1,0 +1,5 @@
+xul-ext-xclear (1.8-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Christopher Huhn, GSI <C.Huhn@gsi.de>  Sat, 08 Feb 2014 12:09:45 +0100
