@@ -1,2 +1,2 @@
 # Extension logic is in .xbl file that is apparently not recognised by lintian
-xul-ext-xclear binary: codeless-jar usr/share/xul-ext/xclear/chrome/xclear.jar
+xul-ext-xclear: codeless-jar usr/share/xul-ext/xclear/chrome/xclear.jar
