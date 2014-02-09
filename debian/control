@@ -19,6 +19,6 @@ Description: 'clear' icons Iceweasel's URL, search and find input fields
  This add-on places an X-icon at the end of the URL, search and quickfind fields
  to clear the contents of these fields.
  .
- This is useful for X-windows users to be able to middle-click paste into these fields
- without erasing their current clipboard contents when marking the text in the field
- for deletion.
+ This is useful for X-windows users to be able to middle-click paste into these 
+ fields without erasing their current clipboard contents when marking the text 
+ in the field for deletion.
