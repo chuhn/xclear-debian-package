@@ -1,3 +1,9 @@
+xclear (1.8-2) jessie; urgency=medium
+
+  * Rebuild for Jessie
+
+ -- Christopher Huhn, GSI <C.Huhn@gsi.de>  Tue, 30 Jun 2015 15:56:16 +0200
+
 xclear (1.8-1) unstable; urgency=low
 
   * Initial release
