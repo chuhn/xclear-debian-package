@@ -21,7 +21,8 @@ License: GPL-2+
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
+
 Files: debian/*
-Copyright: 2014 Christopher Huhn, GSI <C.Huhn@gsi.de>
+Copyright: 2014 - 2017 Christopher Huhn, GSI <C.Huhn@gsi.de>
 License: GPL-2+
  See above.
