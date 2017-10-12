@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BDP4gV37WUNlkEvFOuihBQ==
+SHA1-Digest: NVlL4vH0ifjeRaeUh94fu2woEQg=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WcYl1fLjM2zhmb4KTx7OrQ==
+SHA1-Digest: plOabNA8Tu53p/2/SZMEwhULhZw=
+
+Name: chrome/xclear.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ek6CmFJLMBBXapy89bhZNQ==
+SHA1-Digest: VyBJpj1+Rd8KTb52Oc0qQiagL8o=
+
