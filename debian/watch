@@ -1,2 +1,2 @@
 version=3
-ftp://ftp.mozilla.org/pub/mozilla.org/addons/13078/xclear-(.+)-sm+fx\.xpi
+https://addons.mozilla.org/en-US/firefox/addon/xclear/ .*/xclear-([\d\.]+)-.*\.xpi.* debian xpi-repack
