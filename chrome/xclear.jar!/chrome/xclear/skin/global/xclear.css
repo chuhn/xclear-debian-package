@@ -1,0 +1,34 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+.search-go-container {
+	-moz-binding: url('chrome://xclear/content/xclear.xbl#clear');
+}
+.searchbar-textbox[empty="true"]  * .xclear {
+	display: none;
+}
+
+.searchbar-textbox[isempty="true"]  * .xclear {
+	display: none;
+}
+
+#urlbar[empty="true"]  * .xclear {
+	display: none;
+}
+#urlbar[isempty="true"]  * .xclear {
+	display: none;
+}
+
+#urlbar-icons {
+	-moz-binding: url('chrome://xclear/content/xclear.xbl#clear');
+}
+
+.xclear {
+	list-style-image: url("chrome://xclear/skin/xclear.png");
+	cursor: pointer;
+	padding: 1px;
+}
+
+.findbar-textbox .textbox-input-box {
+	-moz-binding: url('chrome://xclear/content/xclear.xbl#clearfind');
+}
+
